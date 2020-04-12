@@ -1,2 +1,8 @@
-def estimator(data):
-  return data
+def estimator(data): {
+  return data {
+    data: input,
+    impact: {},
+    severeImpact: {}
+  }
+}
+
